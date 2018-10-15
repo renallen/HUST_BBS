@@ -188,9 +188,9 @@ if __name__ == "__main__":
 
     url_login = 'http://bbs.whnet.edu.cn/cgi-bin/bbslogin'
     postdata = {
-        'id': 'allenren',
+        'id': '',
         'login': '(unable to decode value)',
-        'pw': 'allenren1995',
+        'pw': '',
         'titletype': 'forum'
         }
     # proxies = {
